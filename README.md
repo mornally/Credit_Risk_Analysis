@@ -22,7 +22,7 @@ LendingClub is a peer-to-peer lending services company hoping to use supervised 
 
 #### **Ensemble Learners**
 * Balanced Random Forest Classifier: under-samples bootstrap samples at random to balance a dataset. With a 78% accuracy score, better precision, and greatly improved recall - this model is better suited to this task than any of the above methods.
-![Balanced Random Forest Classifier](brfc.png)
+![Balanced Random Forest Classifier](BRFC.png)
 
 * Easy Ensemble Classifier: balances data by drawing only a subset of the majority class and utilizes incorrectly classified instances to refine the model. With a 93% accuracy score, and a marked improvement in recall and precision - this model outperforms all methods above. 
 ![Easy Ensemble Classifier](EEC.png)
